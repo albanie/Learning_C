@@ -1,0 +1,1 @@
+A simple repository to keep track of my progress while learning C.
